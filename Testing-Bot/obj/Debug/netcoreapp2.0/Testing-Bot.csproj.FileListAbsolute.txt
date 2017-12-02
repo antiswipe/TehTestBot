@@ -1,0 +1,11 @@
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\bin\Debug\netcoreapp2.0\Testing-Bot.deps.json
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\bin\Debug\netcoreapp2.0\Testing-Bot.dll
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\obj\Debug\netcoreapp2.0\Testing-Bot.csprojResolveAssemblyReference.cache
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\obj\Debug\netcoreapp2.0\Testing-Bot.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\obj\Debug\netcoreapp2.0\Testing-Bot.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\obj\Debug\netcoreapp2.0\Testing-Bot.AssemblyInfo.cs
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\bin\Debug\netcoreapp2.0\Testing-Bot.pdb
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\obj\Debug\netcoreapp2.0\Testing-Bot.dll
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\obj\Debug\netcoreapp2.0\Testing-Bot.pdb
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\bin\Debug\netcoreapp2.0\Testing-Bot.runtimeconfig.json
+C:\Users\colin\source\repos\Testing-Bot\Testing-Bot\bin\Debug\netcoreapp2.0\Testing-Bot.runtimeconfig.dev.json
